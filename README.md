@@ -1,1 +1,2 @@
-# own-game-1
+# Trex-ruuner
+press space to jump
